@@ -6,6 +6,7 @@
 </ul>
 
 <p> I've been studying and perfecting myself on programming, recently concluded a <a href="https://www.udemy.com/certificate/UC-1daf837d-08a2-437b-8b5d-8832bc64e14a/">Web Development course</a>, focused on JavaScript technologies (React and Node), and I keep studying about new technologies and some DevOps metodologies. I'm seeking oportunities to introduce myself in the technology market and keep improving my set of skills, aiming for FrontEnd development positions. </p>
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
