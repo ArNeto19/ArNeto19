@@ -1,7 +1,7 @@
 <h1>Hi :wave: My name is <a href="https://arneto19.github.io/cv-page/">Armando</a>!</h1>
 
 <ul>
-  <li>Bachelor Degree in Intenational Relations</li>
+  <li>Bachelor Degree in International Relations</li>
   <li>English Proficiency Certificate by Richard Hugh Fisk Foundation</li>
 </ul>
 
