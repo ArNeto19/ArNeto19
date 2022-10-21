@@ -16,7 +16,7 @@
   <li>English Proficiency Certificate by Richard Hugh Fisk Foundation</li>
 </ul>
 
-<p> I've been studying and perfecting myself on programming. I've recently concluded a <a href="https://www.udemy.com/certificate/UC-1daf837d-08a2-437b-8b5d-8832bc64e14a/">FullStack Web Development Course</a>, focused on JavaScript technologies (React and Node). Now I'm looking to improve my knowledge on JS, adding TypeScript on my stack, and yet I seek to learn about other technologies and some DevOps methodologies. I'm looking for oportunities to introduce myself in the tech market, primarily aiming for FrontEnd development positions, and keep evolving my set of skills. </p>
+<p> I've been studying and perfecting myself on programming. I've recently concluded a <a href="https://www.udemy.com/certificate/UC-1daf837d-08a2-437b-8b5d-8832bc64e14a/">FullStack Web Development Course</a>, focused on JavaScript technologies (React and Node). Now I'm looking to improve my knowledge on JS, adding <a href="https://www.dio.me/certificate/2725B9D9/share">TypeScript</a> on my stack, and yet I seek to learn about other technologies and some DevOps methodologies. I'm looking for oportunities to introduce myself in the tech market, primarily aiming for FrontEnd development positions, and keep evolving my set of skills. </p>
 <br>
 
 <p align="center">
