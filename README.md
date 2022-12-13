@@ -1,5 +1,6 @@
 <h1>Hi :wave: My name is <a href="https://arneto19.github.io/cv-page/">Armando</a>!</h1>
 
+#### ☎️ Contact Me
 <div>
   <a href="mailto:armandopdneto@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
@@ -9,7 +10,7 @@
   </a>
 </div>
 
-##
+### 📍 About me
 
 <ul>
   <li>Bachelor Degree in International Relations</li>
@@ -17,13 +18,14 @@
 </ul>
 
 <p> I've been studying and perfecting myself on programming. I've recently concluded a <a href="https://www.udemy.com/certificate/UC-1daf837d-08a2-437b-8b5d-8832bc64e14a/">FullStack Web Development Course</a>, focused on JavaScript technologies (React and Node). Now I'm looking to improve my knowledge on JS, adding <a href="https://www.dio.me/certificate/2725B9D9/share">TypeScript</a> on my stack, and yet I seek to learn about other technologies and some DevOps methodologies. I'm looking for oportunities to introduce myself in the tech market, primarily aiming for FrontEnd development positions, and keep evolving my set of skills. </p>
-<br>
 
-<p align="center">
+### 🛠️ Languages & Tools
+<p>
   <a href="https://skillicons.dev">
-    <img height="40" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,git,typescript,react,nodejs,mongodb,postgres" />
+    <img height="40" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,git,typescript,react,nextjs,nodejs,prisma,mongodb,postgres,docker" />
   </a>
 </p>
+
 
 <br>
 <div>
