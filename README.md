@@ -1,4 +1,4 @@
-<h1>Hi :wave: My name is <a href="https://arneto19.github.io/cv-page/">Armando</a>!</h1>
+<h1>Hi :wave: My name is <a href="https://cv-page-arneto19.netlify.app/" target="_blank">Armando</a>!</h1>
 
 #### ☎️ Contact Me
 <div>
