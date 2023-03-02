@@ -22,15 +22,15 @@
 ### 🛠️ Languages & Tools
 <p>
   <a href="https://skillicons.dev">
-    <img height="40" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,git,typescript,react,materialui,nextjs,nodejs,mongodb,postgres" />
+    <img height="40" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,ts,react,sass,tailwind,nodejs,mongodb,postgres,git" />
   </a>
 </p>
 
 
 <br>
-<!-- <div>
+ <div>
   <a href="#">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArNeto19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArNeto19&layout=compact&langs_count=7&theme=dracula"/>
-</div> -->
+</div> 
 
