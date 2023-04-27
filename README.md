@@ -13,7 +13,7 @@
 ### 📍 About me
 
 <ul>
-  <li>Full Stack Developer, currently working for <a href="https://github.com/Ayo-Team">Ayo</a>.
+  <li>Full Stack Developer, currently working with Javascript, Typescript, React.js, React Native & Node.js.
   <li>Bachelor Degree in International Relations</li>
   <li>English Proficiency Certificate by Richard Hugh Fisk Foundation</li>
 </ul>
