@@ -21,11 +21,7 @@
 <p> I've been working, studying and perfecting myself on software development. At first, I've concluded a <a href="https://www.udemy.com/certificate/UC-1daf837d-08a2-437b-8b5d-8832bc64e14a/">FullStack Web Development Bootcamp</a> focused on JavaScript technologies. Than I was eager to improve my knowledge on JS and it´s libs and frameworks, so adding <a href="https://www.dio.me/certificate/2725B9D9/share">TypeScript</a> on my stack was very natural, by the time I've been practicing on projects with Node.js, React.js and even React Native. Not gonna stop there, I'm always open to learn about other technologies and some methodologies as well.</p>
 
 ### 🛠️ Languages & Tools
-<p>
-  <a href="https://skillicons.dev">
-    <img height="40" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,ts,react,sass,tailwind,nodejs,mongodb,git" />
-  </a>
-</p>
+<img height="40" src="https://skillicons.dev/icons?i=js,ts,react,bootstrap,tailwind,redux,nodejs,express,mongodb,firebase,git,bitbucket,github" />
 
 
 <br>
