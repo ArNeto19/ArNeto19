@@ -15,10 +15,11 @@
 <ul>
   <li>Full Stack Developer, currently working with Javascript, Typescript, React.js, React Native & Node.js.
   <li>Bachelor Degree in International Relations</li>
+  <li>In-progress Degree in System Analisys and Development</li>
   <li>English Proficiency Certificate by Richard Hugh Fisk Foundation</li>
 </ul>
 
-<p> I've been working, studying and perfecting myself on software development. At first, I've concluded a <a href="https://www.udemy.com/certificate/UC-1daf837d-08a2-437b-8b5d-8832bc64e14a/">FullStack Web Development Bootcamp</a> focused on JavaScript technologies. Than I was eager to improve my knowledge on JS and it´s libs and frameworks, so adding <a href="https://www.dio.me/certificate/2725B9D9/share">TypeScript</a> on my stack was very natural, by the time I've been practicing on projects with Node.js, React.js and even React Native. Not gonna stop there, I'm always open to learn about other technologies and some methodologies as well.</p>
+<p> Full Stack Developer with hands-on experience in Node.js, TypeScript, React.js, and React Native, building scalable web and mobile applications. Strong background in RESTful API development, distributed systems, background job processing and system integrations. Experienced with NoSQL databases, CI/CD pipelines, and cloud platforms (AWS, Google Cloud). Proven ability to work in Agile environments (Scrum, Kanban), focusing on performance, scalability, and clean code best practices.</p>
 
 ### 🛠️ Languages & Tools
 <img height="40" src="https://skillicons.dev/icons?i=js,ts,react,bootstrap,tailwind,redux,nodejs,express,mongodb,firebase,git,bitbucket,github" />
@@ -27,7 +28,7 @@
 <br>
  <div>
   <a href="#">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArNeto19&show_icons=true&theme=dracula&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArNeto19&show_icons=true&theme=dracula&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArNeto19&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
 
