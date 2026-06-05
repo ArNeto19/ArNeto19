@@ -15,7 +15,7 @@
 <ul>
   <li>Full Stack Developer, currently working with Javascript, Typescript, React.js, React Native & Node.js.
   <li>Bachelor Degree in International Relations</li>
-  <li>In-progress Degree in System Analisys and Development</li>
+  <li>In-progress Degree in System Analysis and Development</li>
   <li>English Proficiency Certificate by Richard Hugh Fisk Foundation</li>
 </ul>
 
